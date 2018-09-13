@@ -1,0 +1,13 @@
+.gif-Div{
+    float: left;
+    margin-right: 20px;
+    font-weight: bold;
+    color: red;
+}
+body{
+    background-color: blue;
+}
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
